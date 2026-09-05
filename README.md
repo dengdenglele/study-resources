@@ -3,6 +3,7 @@
 * [Learn Anything](https://learn-anything.xyz/)
 * [Algorithms and Data Structures](#Algorithms)
 * [Django](#Django)
+* [Extracurricular Studies](#Extracurricular)
 * [Docker](#Docker)
 * [Git](#Git)
 * [Linux](#Linux)
@@ -19,6 +20,9 @@
 
 ## <a name='Docker'></a>Docker
 - [ ] [uniba-dsg - docker-tutorial](https://github.com/uniba-dsg/docker-tutorial)
+
+## <a name='Extracurricular'></a>Extracurricular Studies
+- [ ] [MIT - The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ## <a name='Git'></a>Git
 - [ ] [Learn Git Branching](https://learngitbranching.js.org/)

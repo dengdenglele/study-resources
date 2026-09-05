@@ -12,7 +12,7 @@
 
 ## <a name='Algorithms'></a>Algorithms and Data Structures
 - [ ] [Visual Learner](https://www.visuallearner.org/)
-- [ ] [YouTube - Visualization and Comparison of Sorting Algorithms ](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
+- [ ] [YouTube - Visualization and Comparison of Sorting Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
 
 ## <a name='Django'></a>Django
 - [ ] [djangoproject - Getting started with Django](https://www.djangoproject.com/start/)

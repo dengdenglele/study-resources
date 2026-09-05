@@ -25,6 +25,7 @@
 ## <a name='Shell'></a>Shell
 - [ ] [Ilya Sher - Use Dumb Shell, don’t Reinvent the Wheel](https://ilya-sher.org/2020/01/04/use-dumb-shell-dont-reinvent-the-wheel/)
 - [ ] [Muhammad - My Favorite One Liners](https://muhammadraza.me/2021/Oneliners)
+- [ ] [German Cocca - Difference between console, command line (CLI), terminal and Shell](https://www.freecodecamp.org/news/command-line-for-beginners/#heading-difference-between-console-command-line-cli-terminal-and-shell)
 
 ## <a name='SQL'></a>SQL
 - [ ] [RPTU Kaiserslautern - SQL Island](https://sql-island.informatik.uni-kl.de/)

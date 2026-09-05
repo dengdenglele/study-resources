@@ -3,7 +3,7 @@
 * [Django](#Django)
 * [Docker](#Docker)
 * [SQL](#SQL)
-* [Web Technologies](#WebTechnologies)
+* [Web Technologies](#WebTech)
 
 ## <a name='Django'></a>Django
 - [ ] [djangoproject - Getting started with Django](https://www.djangoproject.com/start/)
@@ -16,5 +16,5 @@
 - [ ] [SQLBolt - Introduction to SQL](https://sqlbolt.com/)
 - [ ] [NU Knight Lab - SQL Murder Mystery](https://mystery.knightlab.com/)
 
-## <a name='WebTechnologies'></a>Web Technologies
+## <a name='WebTech'></a>Web Technologies
 - [ ] [MDN - How the web works](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works)

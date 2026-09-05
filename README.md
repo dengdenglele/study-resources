@@ -2,6 +2,7 @@
 
 * [Django](#Django)
 * [Docker](#Docker)
+* [Git](#Git)
 * [SQL](#SQL)
 * [Web Technologies](#WebTech)
 
@@ -10,6 +11,11 @@
 
 ## <a name='Docker'></a>Docker
 - [ ] [uniba-dsg - docker-tutorial](https://github.com/uniba-dsg/docker-tutorial)
+
+## <a name='Git'></a>Git
+- [ ] [Learn Git Branching](https://learngitbranching.js.org/)
+- [ ] [git - the simple guide](https://rogerdudler.github.io/git-guide/)
+- [ ] [Pro Git](https://git-scm.com/book/en/v2)
 
 ## <a name='SQL'></a>SQL
 - [ ] [RPTU Kaiserslautern - SQL Island](https://sql-island.informatik.uni-kl.de/)

@@ -1,6 +1,7 @@
 # Table of Contents
 
 * [Learn Anything](https://learn-anything.xyz/)
+* [Algorithms and Data Structures](#Algorithms)
 * [Django](#Django)
 * [Docker](#Docker)
 * [Git](#Git)
@@ -8,6 +9,10 @@
 * [Shell](#Shell)
 * [SQL](#SQL)
 * [Web Technologies](#WebTech)
+
+## <a name='Algorithms'></a>Algorithms and Data Structures
+- [ ] [Visual Learner](https://www.visuallearner.org/)
+- [ ] [YouTube - Visualization and Comparison of Sorting Algorithms ](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
 
 ## <a name='Django'></a>Django
 - [ ] [djangoproject - Getting started with Django](https://www.djangoproject.com/start/)

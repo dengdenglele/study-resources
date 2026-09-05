@@ -4,6 +4,7 @@
 * [Django](#Django)
 * [Docker](#Docker)
 * [Git](#Git)
+* [Linux](#Linux)
 * [Shell](#Shell)
 * [SQL](#SQL)
 * [Web Technologies](#WebTech)
@@ -18,6 +19,9 @@
 - [ ] [Learn Git Branching](https://learngitbranching.js.org/)
 - [ ] [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 - [ ] [Pro Git](https://git-scm.com/book/en/v2)
+
+## <a name='Linux'></a>Linux
+- [ ] [DevOpsChops Diaries - 5 Games for Learning Linux and the Command Line](https://devopschops.com/blog/games-for-learning-linux/)
 
 ## <a name='Networking'></a>Networking
 - [ ] [uniba-psi - Netz-Simulator](https://web.psi.uni-bamberg.de/teaching/netsim/)

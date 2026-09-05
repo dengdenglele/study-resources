@@ -28,6 +28,7 @@
 ## <a name='Linux'></a>Linux
 - [ ] [DevOpsChops Diaries - 5 Games for Learning Linux and the Command Line](https://devopschops.com/blog/games-for-learning-linux/)
 - [ ] [Linux Journey](https://labex.io/linuxjourney)
+- [ ] [Linux Upskill Challenge](https://linuxupskillchallenge.org/)
 - [ ] [William Shotts - The Linux Command Line](https://www.linuxcommand.org/tlcl.php)
 
 ## <a name='Networking'></a>Networking

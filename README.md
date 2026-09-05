@@ -2,6 +2,7 @@
 
 * [Learn Anything](https://learn-anything.xyz/)
 * [Algorithms and Data Structures](#Algorithms)
+* [DevOps](#DevOps)
 * [Django](#Django)
 * [Extracurricular Studies](#Extracurricular)
 * [Docker](#Docker)
@@ -14,6 +15,10 @@
 ## <a name='Algorithms'></a>Algorithms and Data Structures
 - [ ] [Visual Learner](https://www.visuallearner.org/)
 - [ ] [YouTube - Visualization and Comparison of Sorting Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
+
+## <a name='DevOps'></a>DevOps
+- [ ] [DevOps Roadmap Beginner](https://roadmap.sh/devops?r=devops-beginner)
+- [ ] [YouTube -  If I would start DevOps from 0 - How would I start and what would I learn](https://www.youtube.com/watch?v=Cpy20DnIDTI)
 
 ## <a name='Django'></a>Django
 - [ ] [djangoproject - Getting started with Django](https://www.djangoproject.com/start/)

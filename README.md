@@ -17,6 +17,9 @@
 - [ ] [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 - [ ] [Pro Git](https://git-scm.com/book/en/v2)
 
+## <a name='Networking'></a>Networking
+- [ ] [uniba-psi - Netz-Simulator](https://web.psi.uni-bamberg.de/teaching/netsim/)
+
 ## <a name='SQL'></a>SQL
 - [ ] [RPTU Kaiserslautern - SQL Island](https://sql-island.informatik.uni-kl.de/)
 - [ ] [SQLBolt - Introduction to SQL](https://sqlbolt.com/)

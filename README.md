@@ -2,7 +2,7 @@
 
 * [Django](#Django)
 * [Docker](#Docker)
-* [SQL](#SQL]
+* [SQL](#SQL)
 * [Web Technologies](#WebTechnologies)
 
 ## <a name='Django'></a>Django

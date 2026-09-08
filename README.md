@@ -22,7 +22,7 @@
 - [ ] [Awesome Sites To Test On](https://github.com/BMayhew/awesome-sites-to-test-on)
 - [ ] [Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)
 - [ ] [Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)
-- [ ] [Build your own <insert-technology-here>](https://github.com/codecrafters-io/build-your-own-x)
+- [ ] [Build your own \<insert-technology-here\>](https://github.com/codecrafters-io/build-your-own-x)
 - [ ] [Learn Anything](https://learn-anything.xyz/)
 - [ ] [MIT - The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [ ] [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
@@ -31,7 +31,7 @@
 ## <a name='algo'></a>Algorithms and Data Structures
 - [ ] [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [ ] [Visual Learner](https://www.visuallearner.org/)
-- [ ] [VISUALGO](https://visualgo.net/en)
+- [ ] [VisuAlgo](https://visualgo.net/en)
 - [ ] [YouTube - Visualization and Comparison of Sorting Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
 
 ## <a name='argocd'></a>Argo CD
@@ -49,6 +49,7 @@
 ## <a name='docker'></a>Docker
 - [ ] [uniba-dsg - docker-tutorial](https://github.com/uniba-dsg/docker-tutorial)
 - [ ] [Docker Curriculum](https://docker-curriculum.com/)
+- [ ] [awesome-docker#learning-resources](https://github.com/veggiemonk/awesome-docker#learning-resources)
 
 ## <a name='git'></a>Git
 - [ ] [Learn Git Branching](https://learngitbranching.js.org/)

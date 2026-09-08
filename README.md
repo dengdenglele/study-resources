@@ -42,6 +42,9 @@
 - [ ] [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 - [ ] [Pro Git](https://git-scm.com/book/en/v2)
 - [ ] [Atlassian - Git Tutorial (beginner and advanced)](https://www.atlassian.com/git/tutorials)
+- [ ] [Quickstart for GitHub Actions](https://docs.github.com/en/actions/get-started/quickstart)
+- [ ] [GitHub Actions documentation](https://docs.github.com/en/actions)
+- [ ] [GitHub Skills](https://learn.github.com/skills)
 
 ## <a name='Linux'></a>Linux
 - [ ] [DevOpsChops Diaries - 5 Games for Learning Linux and the Command Line](https://devopschops.com/blog/games-for-learning-linux/)

@@ -21,7 +21,7 @@
 - [ ] [Visual Learner](https://www.visuallearner.org/)
 - [ ] [YouTube - Visualization and Comparison of Sorting Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
 
-## <a name="ArgoCD'></a>Argo CD
+## <a name='rgoCD'></a>Argo CD
 - [ ] [Argo CD - Understand The Basics, Learn the Fundamentals](https://argo-cd.readthedocs.io/en/stable/understand_the_basics/)
 
 ## <a name='DevOps'></a>DevOps
@@ -41,6 +41,7 @@
 - [ ] [Learn Git Branching](https://learngitbranching.js.org/)
 - [ ] [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 - [ ] [Pro Git](https://git-scm.com/book/en/v2)
+- [ ] [Atlassian - Git Tutorial (beginner and advanced)](https://www.atlassian.com/git/tutorials)
 
 ## <a name='Linux'></a>Linux
 - [ ] [DevOpsChops Diaries - 5 Games for Learning Linux and the Command Line](https://devopschops.com/blog/games-for-learning-linux/)

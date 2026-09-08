@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [Learn Anything](https://learn-anything.xyz/)
+* [General](#general)
 * [Algorithms and Data Structures](#algo)
 * [Argo CD](#argocd)
 * [DevOps](#devops)
@@ -15,6 +15,12 @@
 * [SQL](#sql)
 * [Site Reliability Engineer](#sre)
 * [Web Technologies](#webtech)
+
+
+## <a name='general'></a>General
+- [ ] [Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)
+- [ ] [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [ ] [Learn Anything](https://learn-anything.xyz/)
 
 ## <a name='algo'></a>Algorithms and Data Structures
 - [ ] [Visual Learner](https://www.visuallearner.org/)
@@ -50,6 +56,7 @@
 - [ ] [Linux Journey](https://labex.io/linuxjourney)
 - [ ] [Linux Upskill Challenge](https://linuxupskillchallenge.org/)
 - [ ] [William Shotts - The Linux Command Line](https://www.linuxcommand.org/tlcl.php)
+- [ ] [How To Linux](https://howtolinux.vercel.app/guide/basic/installation.html)
 
 ## <a name='networking'></a>Networking
 - [ ] [uniba-psi - Netz-Simulator](https://web.psi.uni-bamberg.de/teaching/netsim/)
@@ -62,6 +69,7 @@
 - [ ] [Ilya Sher - Use Dumb Shell, don’t Reinvent the Wheel](https://ilya-sher.org/2020/01/04/use-dumb-shell-dont-reinvent-the-wheel/)
 - [ ] [Muhammad - My Favorite One Liners](https://muhammadraza.me/2021/Oneliners)
 - [ ] [German Cocca - Difference between console, command line (CLI), terminal and Shell](https://www.freecodecamp.org/news/command-line-for-beginners/#heading-difference-between-console-command-line-cli-terminal-and-shell)
+- [ ] [Linux Command Library](https://linuxcommandlibrary.com/)
 
 ## <a name='sql'></a>SQL
 - [ ] [RPTU Kaiserslautern - SQL Island](https://sql-island.informatik.uni-kl.de/)

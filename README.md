@@ -6,7 +6,6 @@
 * [DevOps](#devops)
 * [Django](#django)
 * [Docker](#docker)
-* [Extracurricular Studies](#extra)
 * [Git](#git)
 * [Linux](#linux)
 * [Networking](#networking)
@@ -21,6 +20,7 @@
 - [ ] [Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)
 - [ ] [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [ ] [Learn Anything](https://learn-anything.xyz/)
+- [ ] [MIT - The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ## <a name='algo'></a>Algorithms and Data Structures
 - [ ] [Visual Learner](https://www.visuallearner.org/)
@@ -38,9 +38,6 @@
 
 ## <a name='docker'></a>Docker
 - [ ] [uniba-dsg - docker-tutorial](https://github.com/uniba-dsg/docker-tutorial)
-
-## <a name='extra'></a>Extracurricular Studies
-- [ ] [MIT - The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ## <a name='git'></a>Git
 - [ ] [Learn Git Branching](https://learngitbranching.js.org/)

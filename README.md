@@ -48,6 +48,7 @@
 
 ## <a name='docker'></a>Docker
 - [ ] [uniba-dsg - docker-tutorial](https://github.com/uniba-dsg/docker-tutorial)
+- [ ] [Docker Curriculum](https://docker-curriculum.com/)
 
 ## <a name='git'></a>Git
 - [ ] [Learn Git Branching](https://learngitbranching.js.org/)

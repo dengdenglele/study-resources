@@ -19,6 +19,7 @@
 
 
 ## <a name='general'></a>General
+- [ ] [The Untold History of GitHub Awesome-Lists 🤯](https://dev.to/zevireinitz/the-untold-history-of-github-awesome-lists-73d)
 - [ ] [Awesome Sites To Test On](https://github.com/BMayhew/awesome-sites-to-test-on)
 - [ ] [Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)
 - [ ] [Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)

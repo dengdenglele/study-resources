@@ -8,6 +8,8 @@
 * [Docker](#Docker)
 * [Git](#Git)
 * [Linux](#Linux)
+* [Networking](#Networking)
+* [PSQL](#PSQL)
 * [Shell](#Shell)
 * [SQL](#SQL)
 * [Web Technologies](#WebTech)
@@ -47,6 +49,10 @@
 - [ ] [Ilya Sher - Use Dumb Shell, don’t Reinvent the Wheel](https://ilya-sher.org/2020/01/04/use-dumb-shell-dont-reinvent-the-wheel/)
 - [ ] [Muhammad - My Favorite One Liners](https://muhammadraza.me/2021/Oneliners)
 - [ ] [German Cocca - Difference between console, command line (CLI), terminal and Shell](https://www.freecodecamp.org/news/command-line-for-beginners/#heading-difference-between-console-command-line-cli-terminal-and-shell)
+
+## <a name='PSQL'></a>PSQL
+- [ ] [PostgreSQL Official Tutorial](https://www.postgresql.org/docs/current/tutorial.html)
+- [ ] [PostgreSQL Wiki - Performance Optimization](https://wiki.postgresql.org/wiki/Performance_Optimization)
 
 ## <a name='SQL'></a>SQL
 - [ ] [RPTU Kaiserslautern - SQL Island](https://sql-island.informatik.uni-kl.de/)

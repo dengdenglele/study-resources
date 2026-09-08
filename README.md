@@ -7,6 +7,7 @@
 * [Django](#django)
 * [Docker](#docker)
 * [Git](#git)
+* [Kubernetes](#kube)
 * [Linux](#linux)
 * [Networking](#networking)
 * [PSQL](#psql)
@@ -63,6 +64,10 @@
 - [ ] [Quickstart for GitHub Actions](https://docs.github.com/en/actions/get-started/quickstart)
 - [ ] [GitHub Actions documentation](https://docs.github.com/en/actions)
 - [ ] [GitHub Skills](https://learn.github.com/skills)
+
+## <a name='kube'></a>Kubernetes
+- [ ] [Kubernetes The Hard Way — A Complete Step-by-Step Guide](https://ammykrtech.medium.com/kubernetes-the-hard-way-a-complete-step-by-step-guide-part-1-of-4-8f28570324b8)
+- [ ] [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
 ## <a name='linux'></a>Linux
 - [ ] [DevOpsChops Diaries - 5 Games for Learning Linux and the Command Line](https://devopschops.com/blog/games-for-learning-linux/)

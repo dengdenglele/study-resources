@@ -23,6 +23,7 @@
 - [ ] [MIT - The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ## <a name='algo'></a>Algorithms and Data Structures
+- [ ] [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [ ] [Visual Learner](https://www.visuallearner.org/)
 - [ ] [YouTube - Visualization and Comparison of Sorting Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
 

@@ -2,6 +2,7 @@
 
 * [Learn Anything](https://learn-anything.xyz/)
 * [Algorithms and Data Structures](#Algorithms)
+* [Argo CD](#ArgoCD)
 * [DevOps](#DevOps)
 * [Django](#Django)
 * [Docker](#Docker)
@@ -19,6 +20,9 @@
 ## <a name='Algorithms'></a>Algorithms and Data Structures
 - [ ] [Visual Learner](https://www.visuallearner.org/)
 - [ ] [YouTube - Visualization and Comparison of Sorting Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
+
+## <a name="ArgoCD'></a>Argo CD
+- [ ] [Argo CD - Understand The Basics, Learn the Fundamentals](https://argo-cd.readthedocs.io/en/stable/understand_the_basics/)
 
 ## <a name='DevOps'></a>DevOps
 - [ ] [DevOps Roadmap Beginner](https://roadmap.sh/devops?r=devops-beginner)

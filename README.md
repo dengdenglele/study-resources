@@ -10,6 +10,7 @@
 * [Linux](#linux)
 * [Networking](#networking)
 * [PSQL](#psql)
+* [Python](#python)
 * [Shell](#shell)
 * [SQL](#sql)
 * [Site Reliability Engineer](#sre)
@@ -18,6 +19,7 @@
 
 ## <a name='general'></a>General
 - [ ] [Awesome Sites To Test On](https://github.com/BMayhew/awesome-sites-to-test-on)
+- [ ] [Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)
 - [ ] [Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)
 - [ ] [Build your own <insert-technology-here>](https://github.com/codecrafters-io/build-your-own-x)
 - [ ] [Learn Anything](https://learn-anything.xyz/)
@@ -72,6 +74,9 @@
 - [ ] [PostgreSQL Official Tutorial](https://www.postgresql.org/docs/current/tutorial.html)
 - [ ] [PostgreSQL Wiki - Performance Optimization](https://wiki.postgresql.org/wiki/Performance_Optimization)
 
+## <a name='python'></a>Python
+- [ ] [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python)
+
 ## <a name='shell'></a>Shell
 - [ ] [Ilya Sher - Use Dumb Shell, don’t Reinvent the Wheel](https://ilya-sher.org/2020/01/04/use-dumb-shell-dont-reinvent-the-wheel/)
 - [ ] [Muhammad - My Favorite One Liners](https://muhammadraza.me/2021/Oneliners)
@@ -90,8 +95,10 @@
 - [ ] [The Site Reliability Workbook](https://sre.google/workbook/table-of-contents/)
 
 ## <a name='webtech'></a>Web Technologies
+- [ ] [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 - [ ] [MDN - How the web works](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works)
 - [ ] [MDN - CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [ ] [Full Stack open](https://fullstackopen.com/en/)
 - [ ] [web.dev - Learn CSS](https://web.dev/learn/css)
 - [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
 - [ ] [Welcome to Svelte](https://svelte.dev/tutorial/svelte/welcome-to-svelte)

@@ -26,7 +26,7 @@
 
 ## <a name='DevOps'></a>DevOps
 - [ ] [DevOps Roadmap Beginner](https://roadmap.sh/devops?r=devops-beginner)
-- [ ] [YouTube -  If I would start DevOps from 0 - How would I start and what would I learn](https://www.youtube.com/watch?v=Cpy20DnIDTI)
+- [ ] [YouTube - If I would start DevOps from 0 - How would I start and what would I learn](https://www.youtube.com/watch?v=Cpy20DnIDTI)
 
 ## <a name='Django'></a>Django
 - [ ] [djangoproject - Getting started with Django](https://www.djangoproject.com/start/)
@@ -75,3 +75,8 @@
 
 ## <a name='WebTech'></a>Web Technologies
 - [ ] [MDN - How the web works](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works)
+- [ ] [MDN - CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [ ] [web.dev - Learn CSS](https://web.dev/learn/css)
+- [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
+- [ ] [Welcome to Svelte](https://svelte.dev/tutorial/svelte/welcome-to-svelte)
+- [ ] [YouTube - Node.js Crash Course Tutorial]https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU

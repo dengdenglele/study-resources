@@ -19,6 +19,7 @@
 ## <a name='general'></a>General
 - [ ] [Awesome Sites To Test On](https://github.com/BMayhew/awesome-sites-to-test-on)
 - [ ] [Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)
+- [ ] [Build your own <insert-technology-here>](https://github.com/codecrafters-io/build-your-own-x)
 - [ ] [Learn Anything](https://learn-anything.xyz/)
 - [ ] [MIT - The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [ ] [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
@@ -34,6 +35,8 @@
 - [ ] [Argo CD - Understand The Basics, Learn the Fundamentals](https://argo-cd.readthedocs.io/en/stable/understand_the_basics/)
 
 ## <a name='devops'></a>DevOps
+- [ ] [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+- [ ] [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
 - [ ] [DevOps Roadmap Beginner](https://roadmap.sh/devops?r=devops-beginner)
 - [ ] [YouTube - If I would start DevOps from 0 - How would I start and what would I learn](https://www.youtube.com/watch?v=Cpy20DnIDTI)
 

@@ -70,6 +70,7 @@
 
 ## <a name='networking'></a>Networking
 - [ ] [uniba-psi - Netz-Simulator](https://web.psi.uni-bamberg.de/teaching/netsim/)
+- [ ] [Packet.School](https://packet.school/en/)
 
 ## <a name='psql'></a>PSQL
 - [ ] [PostgreSQL Official Tutorial](https://www.postgresql.org/docs/current/tutorial.html)

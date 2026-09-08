@@ -11,6 +11,7 @@
 * [Networking](#networking)
 * [PSQL](#psql)
 * [Python](#python)
+* [Security](#sec)
 * [Shell](#shell)
 * [SQL](#sql)
 * [Site Reliability Engineer](#sre)
@@ -76,6 +77,11 @@
 
 ## <a name='python'></a>Python
 - [ ] [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python)
+
+## <a name='sec'></a>Security
+- [ ] [HackTricks](https://hacktricks.wiki/)
+- [ ] [PortSwigger Academy](https://portswigger.net/web-security)
+- [ ] [OWASP Cheat Sheet Series Project](https://cheatsheetseries.owasp.org/)
 
 ## <a name='shell'></a>Shell
 - [ ] [Ilya Sher - Use Dumb Shell, don’t Reinvent the Wheel](https://ilya-sher.org/2020/01/04/use-dumb-shell-dont-reinvent-the-wheel/)

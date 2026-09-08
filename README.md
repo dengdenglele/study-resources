@@ -79,4 +79,4 @@
 - [ ] [web.dev - Learn CSS](https://web.dev/learn/css)
 - [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
 - [ ] [Welcome to Svelte](https://svelte.dev/tutorial/svelte/welcome-to-svelte)
-- [ ] [YouTube - Node.js Crash Course Tutorial]https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
+- [ ] [YouTube - Node.js Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)

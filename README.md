@@ -75,11 +75,14 @@
 ## <a name='shell'></a>Shell
 - [ ] [Ilya Sher - Use Dumb Shell, don’t Reinvent the Wheel](https://ilya-sher.org/2020/01/04/use-dumb-shell-dont-reinvent-the-wheel/)
 - [ ] [Muhammad - My Favorite One Liners](https://muhammadraza.me/2021/Oneliners)
-- [ ] [German Cocca - Difference between console, command line (CLI), terminal and Shell](https://www.freecodecamp.org/news/command-line-for-beginners/#heading-difference-between-console-command-line-cli-terminal-and-shell)
+- [ ] [German Cocca - Difference between console, command line (CLI), terminal and Shell](https://www.freecodecamp.SQL Practice Online
+org/news/command-line-for-beginners/#heading-difference-between-console-command-line-cli-terminal-and-shell)
 - [ ] [Linux Command Library](https://linuxcommandlibrary.com/)
 
 ## <a name='sql'></a>SQL
 - [ ] [RPTU Kaiserslautern - SQL Island](https://sql-island.informatik.uni-kl.de/)
+- [ ] [Select Star SQL](https://selectstarsql.com/)
+- [ ] [SQL Practice Online](https://www.sql-practice.online/)
 - [ ] [SQLBolt - Introduction to SQL](https://sqlbolt.com/)
 - [ ] [NU Knight Lab - SQL Murder Mystery](https://mystery.knightlab.com/)
 

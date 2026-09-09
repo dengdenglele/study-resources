@@ -12,6 +12,7 @@
 * [Networking](#networking)
 * [PSQL](#psql)
 * [Python](#python)
+* [Rust](#rust)
 * [Security](#sec)
 * [Shell](#shell)
 * [SQL](#sql)
@@ -86,6 +87,12 @@
 
 ## <a name='python'></a>Python
 - [ ] [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python)
+
+## <a name='rust'></a>Rust
+- [ ] [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+- [ ] [Rust Language Cheat Sheet -> Coding Guides](https://cheats.rs/)
+- [ ] [Get started with Rust](https://rust-lang.org/learn/)
+- [ ] [The Rust Programming Language (interactive fork)](https://rust-book.cs.brown.edu/)
 
 ## <a name='sec'></a>Security
 - [ ] [HackTricks](https://hacktricks.wiki/)

@@ -98,6 +98,7 @@
 - [ ] [Rust Language Cheat Sheet -> Coding Guides](https://cheats.rs/)
 - [ ] [Get started with Rust](https://rust-lang.org/learn/)
 - [ ] [The Rust Programming Language (interactive fork)](https://rust-book.cs.brown.edu/)
+- [ ] [Tour of Rust](https://tourofrust.com/)
 
 ## <a name='sec'></a>Security
 - [ ] [HackTricks](https://hacktricks.wiki/)

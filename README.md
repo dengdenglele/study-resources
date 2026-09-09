@@ -2,6 +2,7 @@
 
 * [General](#general)
 * [Algorithms and Data Structures](#algo)
+* [Challenges](#challenges)
 * [Argo CD](#argocd)
 * [DevOps](#devops)
 * [Django](#django)
@@ -39,6 +40,10 @@
 
 ## <a name='argocd'></a>Argo CD
 - [ ] [Argo CD - Understand The Basics, Learn the Fundamentals](https://argo-cd.readthedocs.io/en/stable/understand_the_basics/)
+
+## <a name='challenges'></a>Challenges
+- [ ] [Project Euler](https://projecteuler.net/)
+- [ ] [Kattis Problem Archive](https://open.kattis.com/)
 
 ## <a name='devops'></a>DevOps
 - [ ] [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)

@@ -34,6 +34,7 @@
 
 ## <a name='algo'></a>Algorithms and Data Structures
 - [ ] [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
+- [ ] [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
 - [ ] [Visual Learner](https://www.visuallearner.org/)
 - [ ] [VisuAlgo](https://visualgo.net/en)
 - [ ] [YouTube - Visualization and Comparison of Sorting Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)

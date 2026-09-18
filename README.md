@@ -37,6 +37,7 @@
 - [ ] [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
 - [ ] [Visual Learner](https://www.visuallearner.org/)
 - [ ] [VisuAlgo](https://visualgo.net/en)
+- [ ] [Visual Sorting aka The Sound OF Sorting](https://mszula.github.io/visual-sorting/)
 - [ ] [YouTube - Visualization and Comparison of Sorting Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
 
 ## <a name='argocd'></a>Argo CD

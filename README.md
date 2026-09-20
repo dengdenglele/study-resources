@@ -95,6 +95,7 @@
 
 ## <a name='python'></a>Python
 - [ ] [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python)
+- [ ] [Books by Al Sweigart - online, free](https://inventwithpython.com/)
 
 ## <a name='rust'></a>Rust
 - [ ] [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)

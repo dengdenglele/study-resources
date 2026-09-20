@@ -2,8 +2,9 @@
 
 * [General](#general)
 * [Algorithms and Data Structures](#algo)
-* [Challenges](#challenges)
+* [Ansible](#ansible)
 * [Argo CD](#argocd)
+* [Challenges](#challenges)
 * [DevOps](#devops)
 * [Django](#django)
 * [Docker](#docker)
@@ -39,6 +40,9 @@
 - [ ] [VisuAlgo](https://visualgo.net/en)
 - [ ] [Visual Sorting aka The Sound OF Sorting](https://mszula.github.io/visual-sorting/)
 - [ ] [YouTube - Visualization and Comparison of Sorting Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
+
+## <a name='ansible'></a>Ansible
+- [ ] [Learning Ansible with Rocky](https://docs.rockylinux.org/latest/books/learning_ansible/00-toc/)
 
 ## <a name='argocd'></a>Argo CD
 - [ ] [Argo CD - Understand The Basics, Learn the Fundamentals](https://argo-cd.readthedocs.io/en/stable/understand_the_basics/)

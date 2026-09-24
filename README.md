@@ -61,7 +61,7 @@
 - [ ] [djangoproject - Getting started with Django](https://www.djangoproject.com/start/)
 
 ## <a name='docker'></a>Docker
-- [ ] [uniba-dsg - docker-tutorial](https://github.com/uniba-dsg/docker-tutorial)
+- [x] [uniba-dsg - docker-tutorial](https://github.com/uniba-dsg/docker-tutorial)
 - [ ] [Docker Curriculum](https://docker-curriculum.com/)
 - [x] [Docker Compose Quickstart](https://docs.docker.com/compose/gettingstarted/)
 - [ ] [awesome-docker#learning-resources](https://github.com/veggiemonk/awesome-docker#learning-resources)
